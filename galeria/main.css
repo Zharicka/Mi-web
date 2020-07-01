@@ -1,0 +1,40 @@
+
+
+
+body {
+
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+
+}
+
+
+.galeria a{
+    
+    filter:grayscale(100%);}
+
+.galeria a:hover {
+    
+   filter:none;
+    }
+
+
+ .imagen{
+      
+    width: 32%;
+    padding: 15px;
+    
+    position: relative;
+
+    
+    
+}
+
+.imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}.titulo {
+}
